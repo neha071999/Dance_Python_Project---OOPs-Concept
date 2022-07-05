@@ -1,0 +1,2 @@
+# Dance_Python_Project---OOPs-Concept
+This Project on Dance Forms is a general software developed (using Python) to simplify Dancing Operations by automating them with OOPs Concept. In this project, “Dance” is the project’s theme name. It covers major aspects or diff - diff Dance forms of Dancing styles ; it could perform the following operations- Dance Forms Names, those dance forms consist different styles, those style consist different best dancer. dancers informations, etc.
